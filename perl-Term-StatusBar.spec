@@ -3,8 +3,8 @@
 %bcond_without	tests	# do perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Term
-%define	pnam	StatusBar
+%define		pdir	Term
+%define		pnam	StatusBar
 Summary:	Term::StatusBar - dynamic progress bar
 Summary(pl):	Term::StatusBar - dynamiczny pasek postêpu
 Name:		perl-Term-StatusBar
