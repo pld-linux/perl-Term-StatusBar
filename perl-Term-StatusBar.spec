@@ -6,7 +6,7 @@
 %define		pdir	Term
 %define		pnam	StatusBar
 Summary:	Term::StatusBar - dynamic progress bar
-Summary(pl):	Term::StatusBar - dynamiczny pasek postêpu
+Summary(pl.UTF-8):   Term::StatusBar - dynamiczny pasek postÄ™pu
 Name:		perl-Term-StatusBar
 Version:	1.18
 Release:	2
@@ -26,11 +26,11 @@ much like those found in a graphical environment. Term::Size is used
 to ensure the bar does not extend beyond the terminal's width. All
 output is sent to STDOUT by default.
 
-%description -l pl
-Term::StatusBar udostêpnia ³atwy sposób tworzenia na terminalu paska
-stanu podobnego do tych, które mo¿na zobaczyæ w graficznym ¶rodowisku.
-U¿ywa Term::Size do zapewnienia, ¿eby pasek nie przekroczy³ szeroko¶ci
-terminala. Ca³e wyj¶cie domy¶lnie jest kierowane na STDOUT.
+%description -l pl.UTF-8
+Term::StatusBar udostÄ™pnia Å‚atwy sposÃ³b tworzenia na terminalu paska
+stanu podobnego do tych, ktÃ³re moÅ¼na zobaczyÄ‡ w graficznym Å›rodowisku.
+UÅ¼ywa Term::Size do zapewnienia, Å¼eby pasek nie przekroczyÅ‚ szerokoÅ›ci
+terminala. CaÅ‚e wyjÅ›cie domyÅ›lnie jest kierowane na STDOUT.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}
