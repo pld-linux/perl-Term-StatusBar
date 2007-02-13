@@ -6,7 +6,7 @@
 %define		pdir	Term
 %define		pnam	StatusBar
 Summary:	Term::StatusBar - dynamic progress bar
-Summary(pl.UTF-8):   Term::StatusBar - dynamiczny pasek postępu
+Summary(pl.UTF-8):	Term::StatusBar - dynamiczny pasek postępu
 Name:		perl-Term-StatusBar
 Version:	1.18
 Release:	2
