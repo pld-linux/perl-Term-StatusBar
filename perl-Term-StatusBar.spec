@@ -9,7 +9,7 @@ Summary:	Term::StatusBar - dynamic progress bar
 Summary(pl.UTF-8):	Term::StatusBar - dynamiczny pasek postępu
 Name:		perl-Term-StatusBar
 Version:	1.18
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
