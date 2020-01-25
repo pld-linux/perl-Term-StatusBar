@@ -4,7 +4,6 @@
 
 %define		pdir	Term
 %define		pnam	StatusBar
-%include	/usr/lib/rpm/macros.perl
 Summary:	Term::StatusBar - dynamic progress bar
 Summary(pl.UTF-8):	Term::StatusBar - dynamiczny pasek postępu
 Name:		perl-Term-StatusBar
